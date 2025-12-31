@@ -1,0 +1,5 @@
+{
+  "name": "SkyThread",
+  "description": "A high-performance, responsive social media platform featuring real-time-like tweet feeds, a follow system, and AI-powered drafting.",
+  "requestFramePermissions": []
+}
